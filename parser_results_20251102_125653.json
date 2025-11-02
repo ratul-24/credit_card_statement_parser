@@ -1,0 +1,52 @@
+[
+  {
+    "issuer": "ICICI Bank",
+    "statement_period": "13/10/2018 - 12/11/2018",
+    "due_date": "30/11/2018",
+    "total_amount_due": null,
+    "card_last_4": "9007",
+    "previous_balance": 5139.3,
+    "filename": "452877250-CreditCardStatement-9.pdf",
+    "status": "SUCCESS"
+  },
+  {
+    "issuer": "IDFC FIRST Bank",
+    "statement_period": "25/07/2021 - 24/08/2021",
+    "due_date": "11/09/2021",
+    "total_amount_due": 29147.25,
+    "card_last_4": "9388",
+    "previous_balance": 29235.08,
+    "filename": "531906783-IDFC-FIRST-Bank-Credit-Card-Statement-24082021.pdf",
+    "status": "SUCCESS"
+  },
+  {
+    "issuer": "HDFC Bank",
+    "statement_date": "12/03/2023",
+    "due_date": "01/04/2023",
+    "total_amount_due": 22935.0,
+    "card_last_4": "3458",
+    "credit_limit": 30000.0,
+    "filename": "636483454-credit-card-statement.pdf",
+    "status": "SUCCESS"
+  },
+  {
+    "issuer": "Axis Bank",
+    "statement_period": "16/04/2021 - 15/05/2021",
+    "due_date": "04/06/2021",
+    "total_amount_due": 1289.0,
+    "card_last_4": "1060",
+    "previous_balance": 2334.0,
+    "filename": "axis.pdf",
+    "status": "SUCCESS"
+  },
+  {
+    "issuer": "Chase",
+    "statement_period": "12/03/18 - 01/01/19",
+    "due_date": "01/25/19",
+    "total_amount_due": 1245.0,
+    "card_last_4": "0000",
+    "previous_balance": 1270.0,
+    "filename": "paperless_statements_chase_sample.pdf",
+    "status": "SUCCESS"
+  }
+]
